@@ -5,3 +5,5 @@ Git tracks changes.
 1111111
 
 gou jian cheng gong!
+
+Creating a new branch is quick.
