@@ -6,4 +6,4 @@ Git tracks changes.
 
 gou jian cheng gong!
 
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
